@@ -5,4 +5,4 @@ A worldcup database project required for Relational Database Certification on Fr
 
 
 ## Database Creation
-Dataset: [Games.csv](
+Dataset: [Games.csv](https://github.com/GI-Jane7/worldcup_database/blob/main/Games.csv)
