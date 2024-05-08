@@ -19,7 +19,7 @@ Created a bash script that reads the games.csv data and uses SQL query commands 
 
 Took the constraints into consideration when creating the Bash script to insert all winner and opponent teams individually into the 'teams' table and then into 'games' table based on the team_id created.
 
-Database dump after data Insertion: 
+Database dump after data Insertion: [worldcup.sql](https://github.com/GI-Jane7/worldcup_database/blob/main/worldcup.sql)
 
 
 
