@@ -5,7 +5,7 @@ A worldcup database project required for Relational Database Certification on Fr
 
 
 ## Database Creation
-Dataset: [Games.csv](https://github.com/GI-Jane7/worldcup_database/blob/main/Games.csv)
+Dataset: [games.csv](https://github.com/GI-Jane7/worldcup_database/blob/main/games.csv)
 
 Tables: 
 * Games: Indicates all matches and scores produced by each team( winner and opponent) using the team_id as identifier.
